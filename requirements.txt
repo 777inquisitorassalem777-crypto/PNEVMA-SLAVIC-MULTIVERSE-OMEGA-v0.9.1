@@ -1,0 +1,14 @@
+# PNEVMA–SLAVIC SEMANTIC CORE Ω v0.2
+# Python >= 3.10
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+networkx>=3.2
+pydantic>=2.5
+python-multipart>=0.0.9
+jinja2>=3.1
+
+# Optional for full stack (Docker)
+# psycopg2-binary
+# redis
+# pgvector
